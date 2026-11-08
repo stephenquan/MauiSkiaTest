@@ -4,8 +4,6 @@ A .NET MAUI experiment in rendering 3D models using **SkiaSharp**. The project e
 
 ## Demo
 
-*Animated GIF preview goes here.*
-
 ![Animated preview of 3D models rendered with SkiaSharp](dotnet_bot_animation.gif)
 
 ## 3D models
