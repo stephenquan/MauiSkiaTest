@@ -1,0 +1,50 @@
+# Solid-color materials for the original Cessna-inspired test plane.
+# No image textures or external dependencies are required.
+
+newmtl AirframeWhite
+Ka 0.180 0.180 0.180
+Kd 0.920 0.940 0.960
+Ks 0.150 0.150 0.150
+Ns 24.0
+d 1.0
+illum 2
+
+newmtl NavyBlue
+Ka 0.020 0.035 0.080
+Kd 0.045 0.160 0.380
+Ks 0.120 0.120 0.120
+Ns 24.0
+d 1.0
+illum 2
+
+newmtl SignalRed
+Ka 0.150 0.020 0.015
+Kd 0.850 0.075 0.045
+Ks 0.120 0.120 0.120
+Ns 24.0
+d 1.0
+illum 2
+
+newmtl CabinGlass
+Ka 0.015 0.025 0.035
+Kd 0.055 0.115 0.160
+Ks 0.450 0.450 0.450
+Ns 80.0
+d 1.0
+illum 2
+
+newmtl MetalGray
+Ka 0.100 0.100 0.100
+Kd 0.420 0.460 0.500
+Ks 0.300 0.300 0.300
+Ns 48.0
+d 1.0
+illum 2
+
+newmtl TireBlack
+Ka 0.010 0.010 0.010
+Kd 0.025 0.025 0.030
+Ks 0.000 0.000 0.000
+Ns 1.0
+d 1.0
+illum 1

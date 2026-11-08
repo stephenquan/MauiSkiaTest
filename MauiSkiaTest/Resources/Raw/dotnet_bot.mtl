@@ -1,0 +1,50 @@
+# Simple purple submarine and bot. No textures are required.
+
+newmtl HullPurple
+Ka 0.16 0.02 0.30
+Kd 0.43 0.035 0.83
+Ks 0.70 0.55 0.95
+Ns 110
+illum 2
+d 1
+
+newmtl PurpleTrim
+Ka 0.08 0.01 0.17
+Kd 0.28 0.025 0.58
+Ks 0.50 0.35 0.80
+Ns 90
+illum 2
+d 1
+
+newmtl BotPurple
+Ka 0.12 0.07 0.30
+Kd 0.40 0.24 0.94
+Ks 0.65 0.60 0.95
+Ns 100
+illum 2
+d 1
+
+newmtl BotFace
+Ka 0.25 0.25 0.30
+Kd 0.78 0.79 0.86
+Ks 0.40 0.40 0.50
+Ns 45
+illum 2
+d 1
+
+newmtl BotEyes
+Ka 0.01 0.008 0.02
+Kd 0.025 0.018 0.055
+Ks 0.40 0.40 0.50
+Ns 110
+illum 2
+d 1
+
+newmtl CanopyGlass
+Ka 0.15 0.17 0.20
+Kd 0.80 0.86 0.98
+Ks 1.00 1.00 1.00
+Ns 180
+Ni 1.45
+illum 4
+d 0.12
